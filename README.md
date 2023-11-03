@@ -1,3 +1,7 @@
+# Note: If your work uses this algorithm or makes improvements based on it, please be sure to cite this paper. Thank you for your cooperation.
+
+# 注意：如果您的工作用到了本算法，或者基于本算法进行了改进，请您务必引用本论文，谢谢配合。
+
 The core algorithm of paper "Logarithmic total variation regularization via preconditioned conjugate gradient method for sparse reconstruction of bioluminescence tomography"
 
 Gege Zhang, Jun Zhang, Yi Chen, Mengfei Du, Kang Li, Linzhi Su, Huangjian Yi, Fengjun Zhao and Xin Cao※.
